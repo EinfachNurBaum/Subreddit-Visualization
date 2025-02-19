@@ -40,8 +40,8 @@ All data is publicly available information from Reddit. No private user data is 
 The visualization component represents:
 - **Nodes**: Subreddits as network nodes
 - **Edges**: Relationships between subreddits
-- **Node size**: Relevance to search terms
-- **Node color**: NSFW status (red for NSFW, green for SFW)
+- (buggy) **Node size**: Relevance to search terms
+- (buggy) **Node color**: NSFW status (red for NSFW, green for SFW)
 
 The tool provides:
 - **Cluster views**: Groups subreddits by search terms
