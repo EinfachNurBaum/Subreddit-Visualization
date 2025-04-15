@@ -60,7 +60,9 @@ The tool provides:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/reddit-graph-visualizer.git
+git clone https://github.com/EinfachNurBaum/Subreddit-Visualization.git
+# or
+gh repo clone EinfachNurBaum/Subreddit-Visualization
 cd reddit-graph-visualizer
 ```
 2. Install dependencies:
